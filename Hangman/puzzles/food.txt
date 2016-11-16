@@ -1,0 +1,25 @@
+Food
+Bacon
+Shrimp
+French Fries
+Burgers
+Burrito
+Taco
+steak
+Bread
+Doughnuts
+Alligator
+Potatoes
+Jalapenos
+Lettuce
+Quesadilla
+Turkey
+Tofu
+Watermelon
+Eggs
+Fish
+Hot Dogs
+
+
+
+

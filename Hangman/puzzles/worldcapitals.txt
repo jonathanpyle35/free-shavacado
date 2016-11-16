@@ -1,0 +1,22 @@
+World Capitals
+Berlin
+Warsaw
+Djibouti
+Lima
+Quito
+Washington DC
+Mexico City
+Montevideo
+Tokyo
+Seoul
+Johannesburg
+New Delhi
+Baghdad
+Paris
+Brasilia
+London
+Brussels
+Bogota
+Santiago
+Panama City
+
